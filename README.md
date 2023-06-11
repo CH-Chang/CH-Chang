@@ -1,15 +1,14 @@
-<center><font size="5">👋 Hello World! I'm CH-Chang</font></center>
-
----
+# 👋 Hello World! I'm CH-Chang
 
 &nbsp;
 
-<center>Welcome to my github!</center>
-<center>A little dreamer to become a software developer from Taiwan 🇹🇼.</center>
+Welcome to my github!
+
+A little dreamer to become a software developer from Taiwan 🇹🇼.
 
 &nbsp;
 
-<font size="4">🎉 SKILLS</font>
+🎉 SKILLS
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)
